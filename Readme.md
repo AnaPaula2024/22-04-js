@@ -3,7 +3,7 @@
  
 ## Como executar o projeto
  Clone o repositório para o seu ambiente local:
-git clone https://github.com/wallsp/iPhone13.git
+git clone https://github.com/AnaPaula2024/22-04-js.git
  
  Navegue até o diretório do projeto:
 cd nome-do-repositorio
@@ -28,6 +28,6 @@ Este projeto está licenciado sob a MIT License. Sinta-se à vontade para usar, 
 ## Contato
 Se você tiver alguma dúvida, entre em contato:
  
-- Nome: Wallace Santos
-- E-mail: wallace.nsantos1@senacsp.edu.br
-- GitHub: wallsp
+- Nome: Ana Paula 
+- E-mail: ana.ppviana@senacsp.edu.br
+- GitHub: AnaPaula2024
